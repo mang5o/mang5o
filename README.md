@@ -1,8 +1,6 @@
 
 <p align="center">
 
-Backend-oriented developer
-
 </p>
 
 ## 📜 Technical Stack
@@ -34,7 +32,7 @@ Backend-oriented developer
 </p>
 
 
-## 🏆Stat
+## 🏆 Stat
 
 <p align="center">
 
