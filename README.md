@@ -36,6 +36,7 @@
 |------|---|
 |https://github.com/mang5o/grpc_man|Suspended|
 |https://github.com/mang5o/psv|Before switching to public|
+|https://github.com/Algo-Inha/Algo-inha|Coding Test Study|
 
 </p>
 
