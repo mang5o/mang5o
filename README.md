@@ -17,7 +17,7 @@
 
 ## 📝 Career
 
-<p align="center">
+<div align="center">
 
 |Designation|Position|Start date|End date|
 |------|---|---|---|
@@ -26,12 +26,12 @@
 |(주) Mindslab|병역특례 - IT 산업기능요원 (Developer)|2019.12|2021.08|
 |LINE|LINE Platform Engineering QTE Team (DevOps)|2022.07|~|
 
-</p>
+</div>
 
 
 ## 🚝 Currently Working
 
-<p align="center">
+<div align="center">
 
 |URL|Status|
 |------|---|
@@ -39,15 +39,15 @@
 |https://github.com/mang5o/psv|Before switching to public|
 |https://github.com/Algo-Inha/Algo-inha|Coding Test Study|
 
-</p>
+</div>
 
 
 
 ## 🏆 Stat
 
-<p align="center">
+<div align="center">
 
 ![Hwang Won](https://github-readme-stats.vercel.app/api?username=mang5o&show_icons=true)
 
-</p>
+</div>
 
