@@ -1,7 +1,7 @@
 
 ## 📜 Technical Stack
 
-<p align="center">
+<div align="center">
 
 <img  src="https://img.shields.io/badge/CPP-B8336A?style=for-the-badge&logo=c%2B%2B&logoColor=white"> (Main Language)
 
@@ -13,7 +13,7 @@
 
 <img  src="https://img.shields.io/badge/Docker-C490D1?style=for-the-badge&logo=docker&logoColor=white">
   
-</p>
+</div>
 
 ## 📝 Career
 
@@ -21,10 +21,10 @@
 
 |Designation|Position|Start date|End date|
 |------|---|---|---|
-|인하대학교|정보통신공학과|2016.03|2022.08(예정)|
+|인하대학교|정보통신공학과|2016.03|2022.08|
 |데이터 인텔리전스 연구실 (Inha)|학부연구생|2018.11|2019.06|
 |(주) Mindslab|병역특례 - IT 산업기능요원 (Developer)|2019.12|2021.08|
-|LINE|LINE Platform Engineering QTE Team (DevOps)|2022.07|~|
+|LINE+|LINE Platform Engineering QTE Team (DevOps)|2022.07|~|
 
 </div>
 
