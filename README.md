@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img  src="https://img.shields.io/badge/CPP-B8336A?style=for-the-badge&logo=c%2B%2B&logoColor=white"> (Main Language)
+<img  src="https://img.shields.io/badge/CPP-B8336A?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 <img  src="https://img.shields.io/badge/JAVA-726DA8?style=for-the-badge&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/SPRING-726DA8?style=for-the-badge&logo=spring&logoColor=white"> <img  src="https://img.shields.io/badge/SPRINGBOOT-726DA8?style=for-the-badge&logo=springboot&logoColor=white">
 
