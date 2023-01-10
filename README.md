@@ -13,6 +13,8 @@
 
 <img  src="https://img.shields.io/badge/Docker-C490D1?style=for-the-badge&logo=docker&logoColor=white">
   
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  
 </div>
 
 ## 📝 Career
