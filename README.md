@@ -26,7 +26,7 @@
 |인하대학교|정보통신공학과|2016.03|2022.08|
 |데이터 인텔리전스 연구실 (Inha)|학부연구생|2018.11|2019.06|
 |(주) Mindslab|병역특례 - IT 산업기능요원 (Developer)|2019.12|2021.08|
-|LINE+|LINE Platform Engineering QTE Team (DevOps)|2022.07|~|
+|LINE+|LINE Platform Engineering SQE Team (DevOps)|2022.07|~|
 
 </div>
 
@@ -37,8 +37,6 @@
 
 |URL|Status|
 |------|---|
-|https://github.com/mang5o/grpc_man|Suspended|
-|https://github.com/mang5o/psv|Before switching to public|
 |https://github.com/Algo-Inha/Algo-inha|Coding Test Study|
 
 </div>
