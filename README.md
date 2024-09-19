@@ -30,6 +30,15 @@
 
 </div>
 
+## 📝 Certificate
+
+<div align="center">
+
+|Name|Organization|Date of Completion|Expiration|
+|------|---|---|---|
+|CKAD (certified kubernetes application developer)|Linux Foundation|2024.09.19|2026.09.18|
+
+</div>
 
 ## 🚝 Currently Working
 
