@@ -34,9 +34,10 @@
 
 <div align="center">
 
-|Name|Organization|Date of Completion|Expiration|
-|------|---|---|---|
-|CKAD (certified kubernetes application developer)|Linux Foundation|2024.09.19|2026.09.18|
+|Name|Organization|Date of Completion|Expiration|Image|
+|------|---|---|---|---|
+|CKAD (Certified Kubernetes Application Developer)|Linux Foundation|2024.09.19|2026.09.18|<details><summary>Image</summary>![CKAD](./images/ckad-covered.png)</details>|
+|CKA (Certified Kubernetes Administrator)|Linux Foundation|2025.10.12|2027.10.11|<details><summary>Image</summary>![CKA](./images/cka-covered.png)</details>|
 
 </div>
 
